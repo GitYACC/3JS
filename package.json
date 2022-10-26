@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/GitYACC/3JS#readme",
   "dependencies": {
+    "dat.gui": "^0.7.9",
     "three": "^0.145.0"
   }
 }
